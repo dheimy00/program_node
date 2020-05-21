@@ -1,0 +1,15 @@
+/*main {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    width: 25rem;
+    height: 25rem;
+    padding-top: 5rem;
+    margin-top: 10px;
+}*/
+
+
+.login-form {
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+    display: block;
+}
